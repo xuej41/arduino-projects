@@ -15,7 +15,7 @@ We had access to bot building and coding resources, but did not know. As a resul
 </div>
 
 ### Prototypes
-I prototyped several versions of code for different battle strategies, some more passive and some more aggressive. Check them out in the directories above.
+We prototyped several versions of code for different battle strategies, some more passive and some more aggressive. Check them out in the directories above.
 <div align="center">
     <img src="images/prot1.jpg" alt="prot1" width="169px">
     <img src="images/prot2.jpg" alt="prot2" width="300px">
