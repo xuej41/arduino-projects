@@ -11,7 +11,7 @@ The entire process of planning, prototyping, coding, and building took a few day
 Our inital prototype included:
 - Shell
 - 2 IR sensors (line detection)
-- 2 ultrasonic sensors + 1 infrared sensor (enemy detection)
+- 2 ultrasonic sensors + 1 TOF sensor (enemy detection)
 - 2 DC motors + JSUMO alloy wheels (crazy grip)
 - Arduino Nano + motor driver
 - 2 rechargeable battery packs
