@@ -12,7 +12,7 @@ Our inital prototype included:
 - Shell
 - 2 IR sensors (line detection)
 - 2 ultrasonic sensors + 1 TOF sensor (enemy detection)
-- 2 DC motors + JSUMO alloy wheels (crazy grip)
+- 2 DC motors + JSUMO steel wheels (crazy grip)
 - Arduino Nano + motor driver
 - 2 rechargeable battery packs
 - 2 servos (added later)
@@ -37,7 +37,7 @@ Measurements were off, so we tried again.
 Much better this time, bot starting to take shape
 
 <div align="center">
-    <img src="media/build11.jpg" alt="Build1" width="300px">
+    <img src="media/build1.jpg" alt="Build1" width="300px">
     <img src="media/build2.jpg" alt="Build2" width="300px">
 </div>
 
