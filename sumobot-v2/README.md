@@ -77,6 +77,7 @@ The final result turned out great! We even painted the flaps to resemble eyes.
 The competition went well! We competed against teams from UofT, McMaster, and York. Despite some wiring complications with our bot, we still managed to do well. You win some and you lose some.
 
 Some videos from the competiton:
-<div align="center">
-    <img src="media/juke.gif" alt="Juke" width="500px">
-</div>
+
+https://github.com/user-attachments/assets/e11c8f56-14eb-4a85-8cc5-309d7eb74b83
+
+https://github.com/user-attachments/assets/b8800aa5-5625-453c-8514-100b14ed2f36
