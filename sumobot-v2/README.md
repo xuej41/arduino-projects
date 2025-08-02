@@ -65,7 +65,7 @@ Our testing run went better
 The final result turned out great! We even painted the flaps to resemble eyes.
 
 <div align="center">
-    <img src="media/final.gif" alt="Final Result" width="500px">
+    <img src="media/finalsmall.gif" alt="Final Result" width="500px">
 </div>
 <div align="center">
     <img src="media/final3.jpg" alt="Final1" width="300px">
@@ -74,6 +74,9 @@ The final result turned out great! We even painted the flaps to resemble eyes.
 </div>
 
 ## Competition
+The competition went well! We competed against teams from UofT, McMaster, and York. Despite some wiring complications with our bot, we still managed to do well. You win some and you lose some.
+
+Some videos from the competiton:
 <div align="center">
     <img src="media/juke.gif" alt="Juke" width="500px">
 </div>
