@@ -81,3 +81,8 @@ Some videos from the competiton:
 https://github.com/user-attachments/assets/e11c8f56-14eb-4a85-8cc5-309d7eb74b83
 
 https://github.com/user-attachments/assets/b8800aa5-5625-453c-8514-100b14ed2f36
+
+## Group Photo 👍
+<div align="center">
+    <img src="media/group.jpg" alt="Group Photo">
+</div>
