@@ -74,7 +74,7 @@ The final result turned out great! We even painted the flaps to resemble eyes.
 </div>
 
 ## Competition
-The competition went well! We competed against teams from UofT, McMaster, and York. Despite some wiring complications with our bot, we still managed to do well. You win some and you lose some.
+The competition went well! We competed against teams from UofT, McMaster, and York. Despite some wiring complications with our bot, we still managed to do well. Out of 20+ teams, we placed in the top 5. You win some and you lose some.
 
 Some videos from the competiton:
 
